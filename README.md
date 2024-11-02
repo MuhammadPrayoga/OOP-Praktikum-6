@@ -140,6 +140,7 @@ public class Main {
 ```
 
 Output:
+
 ![](assets/1.png)
 
 ## Sistem Pembelian Online dengan Keranjang Belanja
@@ -279,4 +280,5 @@ public class Main {
 }
 ```
 Output:
+
 ![](assets/2.png)
