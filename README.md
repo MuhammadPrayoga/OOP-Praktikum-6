@@ -148,13 +148,14 @@ Class Produk:
 ```java
 import java.util.HashMap;
 import java.util.Map;
-import java.text.DecimalFormat; // Tambahkan import ini
+import java.text.DecimalFormat;
 
 class Produk {
     String namaProduk;
     double harga;
     int jumlahStok;
 
+    // Membuat Konstruktor
     public Produk(String namaProduk, double harga, int jumlahStok) {
         this.namaProduk = namaProduk;
         this.harga = harga;
